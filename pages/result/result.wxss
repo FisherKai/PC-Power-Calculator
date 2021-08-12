@@ -1,0 +1,12 @@
+/* pages/result.wxss */
+.result{
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+  font-size: 36px;
+  border-radius: 50%;
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

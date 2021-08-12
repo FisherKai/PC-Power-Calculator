@@ -1,0 +1,5 @@
+<!--pages/result.wxml-->
+<view class="container">
+  <view>推荐电源至少：</view>
+  <view class="result">{{res}}</view>
+</view>

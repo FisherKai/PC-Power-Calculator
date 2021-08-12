@@ -1,0 +1,21 @@
+.m-item {
+  display: flex;
+  line-height: 4;
+}
+
+.btn {
+  position: fixed;
+  bottom: 10%;
+  background-color: rgb(0, 181, 205);
+  color: #fff;
+}
+
+.container {
+  font-size: 20px;
+  background-color: greenyellow;
+  color: white;
+}
+
+.tips{
+  font-size: 12px;
+}
