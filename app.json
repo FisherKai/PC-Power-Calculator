@@ -6,7 +6,7 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "Weixin",
+    "navigationBarTitleText": "PC电源计算器",
     "navigationBarTextStyle": "black"
   },
   "style": "v2",
