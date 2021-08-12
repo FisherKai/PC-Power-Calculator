@@ -32,10 +32,10 @@
     "packNpmRelationList": [],
     "minifyWXSS": true
   },
-  "compileType": "miniprogram",
+  "compileType": "PC-Power-Calculator",
   "libVersion": "2.19.1",
-  "appid": "wx9f4bf52becf6c022",
-  "projectname": "miniprogram-1",
+  "appid": "",
+  "projectname": "PC-Power-Calculator",
   "debugOptions": {
     "hidedInDevtools": []
   },
